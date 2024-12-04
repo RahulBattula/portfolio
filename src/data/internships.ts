@@ -44,49 +44,5 @@ export const internships: Internship[] = [
       'Developed a model with 90% accuracy in predicting patient readmissions',
       'Successfully completed 3 major client projects',
     ],
-  },
-  {
-    id: 'ai-research',
-    company: 'AI Research Lab',
-    logo: 'https://images.unsplash.com/photo-1535378917042-10a22c95931a?auto=format&fit=crop&q=80&w=200',
-    role: 'Machine Learning Intern',
-    duration: 'May 2022 - Aug 2022',
-    location: 'Boston, MA',
-    description:
-      'Conducted research on advanced machine learning algorithms for computer vision applications.',
-    responsibilities: [
-      'Implemented deep learning models using PyTorch',
-      'Conducted experiments on various neural network architectures',
-      'Prepared technical documentation and research papers',
-      'Collaborated with senior researchers on project development',
-    ],
-    technologies: ['Python', 'PyTorch', 'TensorFlow', 'OpenCV', 'Linux'],
-    achievements: [
-      'Published a research paper on efficient object detection',
-      'Improved model accuracy by 15% through architecture optimization',
-      'Developed a novel data augmentation technique',
-    ],
-  },
-  {
-    id: 'data-science-startup',
-    company: 'Data Science Startup',
-    logo: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=200',
-    role: 'Data Science Intern',
-    duration: 'Sep 2021 - Dec 2021',
-    location: 'Austin, TX',
-    description:
-      'Worked on developing machine learning solutions for natural language processing tasks.',
-    responsibilities: [
-      'Developed NLP models for text classification',
-      'Implemented sentiment analysis solutions',
-      'Created data pipelines for text processing',
-      'Conducted A/B testing for model improvements',
-    ],
-    technologies: ['Python', 'NLTK', 'SpaCy', 'Scikit-learn', 'Docker'],
-    achievements: [
-      'Achieved 95% accuracy in sentiment classification',
-      'Reduced model training time by 30%',
-      'Contributed to open-source NLP library',
-    ],
-  },
+  },  
 ];
